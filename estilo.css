@@ -1,0 +1,36 @@
+body, html{
+    margin:auto;
+    border:solid 20px brown; 
+}
+body {
+    background-color: bisque;
+    color:darkslategray
+}
+#destaque{
+    background-image: url(fundo.jpg);
+    background-size: cover;
+    text-align: left;
+    color: brown;
+    padding: 3%;
+    font-size: 40px;
+
+}
+
+.item{
+    width: 70%;
+    float: center;
+    text-align: center;
+    padding: 10%;
+}
+p {
+    font-size: 30px;
+    color: brown;
+
+}
+
+h3{
+    font-size: 60px;
+    color: brown;
+}
+
+
